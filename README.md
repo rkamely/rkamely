@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rkamely
 - 👀 I’m interested in front-end developing
-- 🌱 I’m currently learning react native
+- 😎I'm working by React JS and Next JS
+- 🌱 I’m currently learning react native and PWA
 - 💞️ I’m looking to collaborate on implementing chalenging UI
-- 📫 You can reach me by reza.kameli67@yahoo.com
-
-
+- 📫 You can reach me by r.kamely@gmail.com
