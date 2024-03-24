@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **React, Next.js, PWA, javascript**
 
-- 📫 How to reach me **r.kamely@gmail.com**
+- 📫 How to reach me **r.kameli67@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
